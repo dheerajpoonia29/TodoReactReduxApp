@@ -1,3 +1,7 @@
+# App Screen
+![image](https://github.com/dheerajpoonia29/TodoReactReduxApp/assets/33790953/7e9cf7fd-f1b5-476d-bb47-140a83160fbe)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
